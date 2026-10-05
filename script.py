@@ -143,7 +143,7 @@ def make_commits_for_year():
 
     print(
         f"\n☑️ Finished! Created {total_commits} commits "
-        f"for {year}"
+        f"for {year} from {period_name}"
     )
 
 # -------------------------------
