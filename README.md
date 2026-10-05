@@ -23,8 +23,11 @@ A Python utility that automatically generates multiple Git commits for each day 
 # 📁 Project Structure
 
 .
+
 ├── main.py
+
 |── info.txt
+
 └── README.md
 
 
