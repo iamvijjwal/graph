@@ -20,7 +20,7 @@ A Python utility that automatically generates multiple Git commits for each day 
 
 ❌ Validates year and period input
 
-📁 Project Structure
+# 📁 Project Structure
 .
 ├── main.py
 ├── info.txt
@@ -79,7 +79,7 @@ Your project should look like:
 ├── info.txt
 └── README.md
 
-▶️ Usage
+# ▶️ Usage
 
 Run the script:
 
