@@ -1,34 +1,34 @@
-## 📅 Git Commit Generator
+# 📅 Git Commit Generator
 
 A Python tool that automatically creates random Git commits for a selected 3-month period.
 
-# ✨ Features
+## ✨ Features
 
-🗓️ Select a 3-month period
+•🗓️ Select a 3-month period
 
-🎲 Generate 4–11 commits per day
+•🎲 Generate 4–11 commits per day
 
-📅 Set custom commit dates
+•📅 Set custom commit dates
 
-📝 Update info.txt automatically
+•📝 Update info.txt automatically
 
-🔀 Create Git commits automatically
+•🔀 Create Git commits automatically
 
-🚀 Push commits to GitHub
+•🚀 Push commits to GitHub
 
-✅ Validate year and period
+•✅ Validate year and period
 
 ## 🛠️ Requirements
 
-Python 3.8+
+•Python 3.8+
 
-Git
+•Git
 
-GitHub repository
+•GitHub repository
 
-Git authentication
+•Git authentication
 
-Check versions:
+### Check versions:
 
 python --version
 git --version
