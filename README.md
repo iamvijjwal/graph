@@ -46,8 +46,11 @@ touch info.txt
 Project structure:
 
 .
+
 main.py
+
 info.txt
+
 README.md
 
 ## ▶️ Usage
