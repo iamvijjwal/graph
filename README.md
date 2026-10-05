@@ -33,7 +33,7 @@ A Python tool that automatically creates random Git commits for a selected 3-mon
 python --version
 git --version
 
-🚀 Setup
+## 🚀 Setup
 git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
 cd YOUR_REPOSITORY
 
@@ -43,15 +43,13 @@ Create info.txt:
 touch info.txt
 
 
-Project structure:
+## Project structure:
 
-.
+•main.py
 
-main.py
+•info.txt
 
-info.txt
-
-README.md
+•README.md
 
 ## ▶️ Usage
 python main.py
