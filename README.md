@@ -46,11 +46,11 @@ touch info.txt
 Project structure:
 
 .
-├── main.py
-├── info.txt
-└── README.md
+main.py
+info.txt
+README.md
 
-▶️ Usage
+## ▶️ Usage
 python main.py
 
 
@@ -64,13 +64,13 @@ Choose a year and period:
 
 The script generates 4–11 random commits per day, updates info.txt, sets the commit date, and pushes everything to the remote repository.
 
-⚠️ Note
+## ⚠️ Note
 
 A 3-month period can create 360–990 commits. Make sure you're in the correct repository and have Git authentication configured.
 
 GitHub may not always display backdated commits on the contribution graph.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome.
 
