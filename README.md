@@ -24,9 +24,7 @@ A Python utility that automatically generates multiple Git commits for each day 
 
 .
 ├── main.py
-
 |── info.txt
-
 └── README.md
 
 
