@@ -1,4 +1,4 @@
-#📅 Git Commit Generator
+# 📅 Git Commit Generator
 
 A Python utility that automatically generates multiple Git commits for each day within a selected 3-month period of a given year.
 
