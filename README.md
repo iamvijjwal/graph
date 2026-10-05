@@ -2,7 +2,7 @@
 
 A Python tool that automatically creates random Git commits for a selected 3-month period.
 
-✨ Features
+# ✨ Features
 
 🗓️ Select a 3-month period
 
